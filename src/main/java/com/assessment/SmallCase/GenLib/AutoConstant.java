@@ -19,5 +19,5 @@ public interface AutoConstant {
 	
 	String photoPath = "./Photo";
 	
-	String reportsPath = "./Reports/firelawn.html";
+	String reportsPath = "./Reports/Smallcase.html";
 }
